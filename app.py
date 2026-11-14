@@ -3,6 +3,7 @@ behind Tailscale like the other self-hosted apps, so everyone who can reach it c
 
 The catalog is generic ("Γάλα", not a specific brand) and ships with the app in
 static/catalog/ — the server never contacts any shop."""
+import mimetypes
 import os
 import time
 from datetime import datetime, timezone
@@ -10,6 +11,9 @@ from datetime import datetime, timezone
 from flask import Flask, abort, jsonify, render_template, request, send_from_directory
 
 import db
+
+# python:3.12-slim has no /etc/mime.types, so .webp would go out as octet-stream.
+mimetypes.add_type("image/webp", ".webp")
 
 app = Flask(__name__)
 app.json.ensure_ascii = False
