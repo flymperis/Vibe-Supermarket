@@ -1,0 +1,11 @@
+.venv
+.git
+__pycache__
+.pytest_cache
+data
+supermarket-data
+tests
+*.db
+*.db-*
+scraped
+tools

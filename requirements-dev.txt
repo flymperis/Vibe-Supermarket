@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest
+# only for tools/scrape_sklavenitis.py and tools/build_catalog.py
+requests==2.32.3
+Pillow==11.0.0

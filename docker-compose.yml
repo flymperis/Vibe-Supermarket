@@ -1,0 +1,11 @@
+services:
+  vibe-supermarket:
+    build: .
+    container_name: vibe-supermarket
+    ports:
+      - "5050:5050"
+    environment:
+      - TZ=Europe/Athens
+    volumes:
+      - ./supermarket-data:/app/data
+    restart: unless-stopped

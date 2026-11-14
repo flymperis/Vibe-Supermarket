@@ -1,0 +1,2156 @@
+{
+ "categories": [
+  {
+   "slug": "eidi-artozacharoplasteioy",
+   "name": "Είδη Αρτοζαχαροπλαστείου",
+   "image": "cats/eidi-artozacharoplasteioy.webp",
+   "items": [
+    {
+     "name": "Ψωμί του τοστ",
+     "image": "items/psomi-toy-tost.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ψωμί ολικής άλεσης",
+     "image": "items/psomi-olikis-alesis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ψωμί για σάντουιτς",
+     "image": "items/psomi-gia-santoyits.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αραβικές πίτες",
+     "image": "items/aravikes-pites.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πίτες για σουβλάκι",
+     "image": "items/pites-gia-soyvlaki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τορτίγιες",
+     "image": "items/tortigies.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κριτσίνια",
+     "image": "items/kritsinia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παξιμάδια",
+     "image": "items/paximadia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Bake rolls",
+     "image": "items/bake-rolls.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φρυγανιές",
+     "image": "items/fryganies.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρουτόν",
+     "image": "items/kroyton.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κουλούρια",
+     "image": "items/koyloyria.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κέικ",
+     "image": "items/keik.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τσουρέκι",
+     "image": "items/tsoyreki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρουασάν",
+     "image": "items/kroyasan.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γλυκό του κουταλιού",
+     "image": "items/glyko-toy-koytalioy.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "freska-froyta-lachanika",
+   "name": "Φρέσκα Φρούτα & Λαχανικά",
+   "image": "cats/freska-froyta-lachanika.webp",
+   "items": [
+    {
+     "name": "Μπανάνες",
+     "image": "items/mpananes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μήλα",
+     "image": "items/mila.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πορτοκάλια",
+     "image": "items/portokalia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μανταρίνια",
+     "image": "items/mantarinia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λεμόνια",
+     "image": "items/lemonia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αχλάδια",
+     "image": "items/achladia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σταφύλια",
+     "image": "items/stafylia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ακτινίδια",
+     "image": "items/aktinidia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φράουλες",
+     "image": "items/fraoyles.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καρπούζι",
+     "image": null,
+     "emoji": "🍉"
+    },
+    {
+     "name": "Πεπόνι",
+     "image": null,
+     "emoji": "🍈"
+    },
+    {
+     "name": "Ροδάκινα",
+     "image": null,
+     "emoji": "🍑"
+    },
+    {
+     "name": "Βερίκοκα",
+     "image": null,
+     "emoji": "🍑"
+    },
+    {
+     "name": "Κεράσια",
+     "image": null,
+     "emoji": "🍒"
+    },
+    {
+     "name": "Αβοκάντο",
+     "image": "items/avokanto.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ανανάς",
+     "image": "items/ananas.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρόδι",
+     "image": "items/rodi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ντομάτες",
+     "image": "items/ntomates.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ντοματίνια",
+     "image": "items/ntomatinia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αγγούρια",
+     "image": "items/aggoyria.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πατάτες",
+     "image": "items/patates.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρεμμύδια ξερά",
+     "image": "items/kremmydia-xera.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φρέσκα κρεμμυδάκια",
+     "image": "items/freska-kremmydakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σκόρδο",
+     "image": "items/skordo.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καρότα",
+     "image": "items/karota.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πιπεριές",
+     "image": "items/piperies.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κολοκυθάκια",
+     "image": null,
+     "emoji": "🥒"
+    },
+    {
+     "name": "Μελιτζάνες",
+     "image": null,
+     "emoji": "🍆"
+    },
+    {
+     "name": "Μαρούλι",
+     "image": "items/maroyli.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λάχανο",
+     "image": "items/lachano.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπρόκολο",
+     "image": "items/mprokolo.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κουνουπίδι",
+     "image": "items/koynoypidi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σπανάκι",
+     "image": "items/spanaki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μανιτάρια",
+     "image": "items/manitaria.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φασολάκια",
+     "image": "items/fasolakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μαϊντανός",
+     "image": "items/maintanos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Άνηθος",
+     "image": "items/anithos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Δυόσμος",
+     "image": "items/dyosmos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρόκα",
+     "image": "items/roka.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σαλάτα σε σακουλάκι",
+     "image": "items/salata-se-sakoylaki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Βασιλικός",
+     "image": null,
+     "emoji": "🌿"
+    },
+    {
+     "name": "Τζίντζερ",
+     "image": null,
+     "emoji": "🫚"
+    },
+    {
+     "name": "Γλυκοπατάτες",
+     "image": "items/glykopatates.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παντζάρια",
+     "image": "items/pantzaria.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "fresko-psari-thalassina",
+   "name": "Φρέσκο Ψάρι & Θαλασσινά",
+   "image": "cats/fresko-psari-thalassina.webp",
+   "items": [
+    {
+     "name": "Τσιπούρα",
+     "image": "items/tsipoyra.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λαβράκι",
+     "image": "items/lavraki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σολομός φρέσκος",
+     "image": "items/solomos-freskos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καλαμάρια",
+     "image": "items/kalamaria.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χταπόδι",
+     "image": "items/chtapodi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μύδια",
+     "image": "items/mydia.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "fresko-kreas",
+   "name": "Φρέσκο Κρέας",
+   "image": "cats/fresko-kreas.webp",
+   "items": [
+    {
+     "name": "Κιμάς μοσχαρίσιος",
+     "image": "items/kimas-moscharisios.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μοσχάρι κομμάτια",
+     "image": "items/moschari-kommatia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπριζόλες χοιρινές",
+     "image": "items/mprizoles-choirines.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χοιρινό κομμάτια",
+     "image": "items/choirino-kommatia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κοτόπουλο ολόκληρο",
+     "image": "items/kotopoylo-olokliro.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φιλέτο κοτόπουλο",
+     "image": "items/fileto-kotopoylo.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπούτια κοτόπουλο",
+     "image": "items/mpoytia-kotopoylo.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φτερούγες κοτόπουλο",
+     "image": "items/fteroyges-kotopoylo.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αρνί",
+     "image": "items/arni.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπιφτέκια",
+     "image": "items/mpiftekia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σουβλάκια",
+     "image": "items/soyvlakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λουκάνικα χωριάτικα",
+     "image": "items/loykanika-choriatika.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γύρος",
+     "image": "items/gyros.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "galata-rofimata-chymoi-psygeioy",
+   "name": "Γάλατα, Ροφήματα & Χυμοί ψυγείου",
+   "image": "cats/galata-rofimata-chymoi-psygeioy.webp",
+   "items": [
+    {
+     "name": "Γάλα φρέσκο",
+     "image": "items/gala-fresko.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γάλα ελαφρύ",
+     "image": "items/gala-elafry.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γάλα χωρίς λακτόζη",
+     "image": "items/gala-choris-laktozi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σοκολατούχο γάλα",
+     "image": "items/sokolatoycho-gala.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρόφημα αμυγδάλου",
+     "image": "items/rofima-amygdaloy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρόφημα βρώμης",
+     "image": "items/rofima-vromis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ξινόγαλο",
+     "image": "items/xinogalo.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χυμός πορτοκάλι φρέσκος",
+     "image": "items/chymos-portokali-freskos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Smoothie",
+     "image": "items/smoothie.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "giaoyrtia-kremes-galaktos-epidorpia-psygeioy",
+   "name": "Γιαούρτια, Κρέμες γάλακτος & Επιδόρπια ψυγείου",
+   "image": "cats/giaoyrtia-kremes-galaktos-epidorpia-psygeioy.webp",
+   "items": [
+    {
+     "name": "Γιαούρτι στραγγιστό",
+     "image": "items/giaoyrti-straggisto.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γιαούρτι αγελάδος",
+     "image": "items/giaoyrti-agelados.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γιαούρτι πρόβειο",
+     "image": "items/giaoyrti-proveio.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γιαούρτι με φρούτα",
+     "image": "items/giaoyrti-me-froyta.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρυζόγαλο",
+     "image": "items/ryzogalo.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρέμα καραμελέ",
+     "image": "items/krema-karamele.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πουτίγκα",
+     "image": "items/poytigka.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρέμα γάλακτος",
+     "image": "items/krema-galaktos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σαντιγί",
+     "image": "items/santigi.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "turokomika-futika-anapliromata",
+   "name": "Τυροκομικά & Φυτικά Αναπληρώματα",
+   "image": "cats/turokomika-futika-anapliromata.webp",
+   "items": [
+    {
+     "name": "Φέτα",
+     "image": "items/feta.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ανθότυρο",
+     "image": "items/anthotyro.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μυζήθρα",
+     "image": "items/myzithra.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τυρί κρέμα",
+     "image": "items/tyri-krema.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κότατζ",
+     "image": "items/kotatz.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μοτσαρέλα",
+     "image": "items/motsarela.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γκούντα",
+     "image": "items/gkoynta.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τυρί του τοστ σε φέτες",
+     "image": "items/tyri-toy-tost-se-fetes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Edam",
+     "image": "items/edam.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κασέρι",
+     "image": "items/kaseri.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γραβιέρα",
+     "image": "items/graviera.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κεφαλοτύρι",
+     "image": "items/kefalotyri.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παρμεζάνα",
+     "image": "items/parmezana.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τριμμένο τυρί",
+     "image": "items/trimmeno-tyri.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χαλούμι",
+     "image": "items/chaloymi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπρι",
+     "image": "items/mpri.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φυτικό τυρί",
+     "image": "items/fytiko-tyri.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "ayga-voytyra-margarines-nopes-zymes-zomoi-psygeioy",
+   "name": "Αυγά, Βούτυρα, Μαργαρίνες, Νωπές Ζύμες & Ζωμοί Ψυγείου",
+   "image": "cats/ayga-voytyra-margarines-nopes-zymes-zomoi-psygeioy.webp",
+   "items": [
+    {
+     "name": "Αυγά",
+     "image": "items/ayga.webp",
+     "emoji": null
+    },
+    {
+     "name": "Βούτυρο",
+     "image": "items/voytyro.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μαργαρίνη",
+     "image": "items/margarini.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φύλλο κρούστας",
+     "image": "items/fyllo-kroystas.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σφολιάτα",
+     "image": "items/sfoliata.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ζύμη πίτσας",
+     "image": "items/zymi-pitsas.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μαγιά νωπή",
+     "image": "items/magia-nopi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τορτελίνια",
+     "image": "items/tortelinia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ζωμός",
+     "image": "items/zomos.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "allantika",
+   "name": "Αλλαντικά",
+   "image": "cats/allantika.webp",
+   "items": [
+    {
+     "name": "Γαλοπούλα καπνιστή",
+     "image": "items/galopoyla-kapnisti.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ζαμπόν",
+     "image": "items/zampon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπέικον",
+     "image": "items/mpeikon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Προσούτο",
+     "image": "items/prosoyto.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πάριζα",
+     "image": "items/pariza.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μορταδέλα",
+     "image": "items/mortadela.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σαλάμι",
+     "image": "items/salami.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λουκάνικα Φρανκφούρτης",
+     "image": "items/loykanika-frankfoyrtis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παστουρμάς",
+     "image": "items/pastoyrmas.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "orektika-delicatessen",
+   "name": "Ορεκτικά & Delicatessen",
+   "image": "cats/orektika-delicatessen.webp",
+   "items": [
+    {
+     "name": "Καπνιστός σολομός",
+     "image": "items/kapnistos-solomos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αντζούγιες",
+     "image": null,
+     "emoji": "🐟"
+    },
+    {
+     "name": "Ταραμοσαλάτα",
+     "image": "items/taramosalata.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τζατζίκι",
+     "image": "items/tzatziki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μελιτζανοσαλάτα",
+     "image": "items/melitzanosalata.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χούμους",
+     "image": "items/choymoys.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ελιές Καλαμών",
+     "image": "items/elies-kalamon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πράσινες ελιές",
+     "image": "items/prasines-elies.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πίκλες",
+     "image": "items/pikles.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λιαστές ντομάτες",
+     "image": "items/liastes-ntomates.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κάπαρη",
+     "image": "items/kapari.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χαλβάς",
+     "image": "items/chalvas.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "etoima-geymata",
+   "name": "Έτοιμα Γεύματα",
+   "image": "cats/etoima-geymata.webp",
+   "items": [
+    {
+     "name": "Έτοιμο φαγητό",
+     "image": "items/etoimo-fagito.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σούσι",
+     "image": "items/soysi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λαδερά",
+     "image": null,
+     "emoji": "🍲"
+    },
+    {
+     "name": "Σούπα",
+     "image": "items/soypa.webp",
+     "emoji": null
+    },
+    {
+     "name": "Έτοιμη σαλάτα",
+     "image": "items/etoimi-salata.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σάντουιτς",
+     "image": "items/santoyits.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "katepsygmena",
+   "name": "Κατεψυγμένα",
+   "image": "cats/katepsygmena.webp",
+   "items": [
+    {
+     "name": "Αρακάς κατεψυγμένος",
+     "image": "items/arakas-katepsygmenos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φασολάκια κατεψυγμένα",
+     "image": "items/fasolakia-katepsygmena.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σπανάκι κατεψυγμένο",
+     "image": "items/spanaki-katepsygmeno.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπρόκολο κατεψυγμένο",
+     "image": "items/mprokolo-katepsygmeno.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πατάτες κατεψυγμένες",
+     "image": "items/patates-katepsygmenes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ανάμικτα λαχανικά",
+     "image": "items/anamikta-lachanika.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φρούτα του δάσους",
+     "image": "items/froyta-toy-dasoys.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γαρίδες",
+     "image": "items/garides.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καλαμαράκια κατεψυγμένα",
+     "image": "items/kalamarakia-katepsygmena.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φιλέτο ψαριού",
+     "image": "items/fileto-psarioy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπακαλιάρος",
+     "image": "items/mpakaliaros.webp",
+     "emoji": null
+    },
+    {
+     "name": "Fish sticks",
+     "image": "items/fish-sticks.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπιφτέκια κατεψυγμένα",
+     "image": "items/mpiftekia-katepsygmena.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κοτομπουκιές",
+     "image": "items/kotompoykies.webp",
+     "emoji": null
+    },
+    {
+     "name": "Nuggets",
+     "image": "items/nuggets.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πίτσα κατεψυγμένη",
+     "image": "items/pitsa-katepsygmeni.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τυρόπιτα",
+     "image": "items/tyropita.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σπανακόπιτα",
+     "image": "items/spanakopita.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λουκουμάδες",
+     "image": null,
+     "emoji": "🍩"
+    },
+    {
+     "name": "Ζύμη κατεψυγμένη",
+     "image": "items/zymi-katepsygmeni.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παγωτό",
+     "image": "items/pagoto.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παγωτό ξυλάκι",
+     "image": "items/pagoto-xylaki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παγάκια",
+     "image": "items/pagakia.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "kava",
+   "name": "Κάβα",
+   "image": "cats/kava.webp",
+   "items": [
+    {
+     "name": "Μπίρα",
+     "image": "items/mpira.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπίρα χωρίς αλκοόλ",
+     "image": "items/mpira-choris-alkool.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μηλίτης",
+     "image": "items/militis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρασί λευκό",
+     "image": "items/krasi-leyko.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρασί κόκκινο",
+     "image": "items/krasi-kokkino.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρασί ροζέ",
+     "image": "items/krasi-roze.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αφρώδες κρασί",
+     "image": "items/afrodes-krasi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ούζο",
+     "image": "items/oyzo.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τσίπουρο",
+     "image": "items/tsipoyro.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ουίσκι",
+     "image": "items/oyiski.webp",
+     "emoji": null
+    },
+    {
+     "name": "Βότκα",
+     "image": "items/votka.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τζιν",
+     "image": "items/tzin.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρούμι",
+     "image": "items/roymi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λικέρ",
+     "image": "items/liker.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "anapsyktika-nera-chymoi",
+   "name": "Αναψυκτικά, Νερά & Χυμοί",
+   "image": "cats/anapsyktika-nera-chymoi.webp",
+   "items": [
+    {
+     "name": "Νερό 1,5 λίτρο",
+     "image": "items/nero-1-5-litro.webp",
+     "emoji": null
+    },
+    {
+     "name": "Νερό μικρό",
+     "image": "items/nero-mikro.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ανθρακούχο νερό",
+     "image": "items/anthrakoycho-nero.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σόδα",
+     "image": "items/soda.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κόλα",
+     "image": "items/kola.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πορτοκαλάδα",
+     "image": "items/portokalada.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λεμονάδα",
+     "image": "items/lemonada.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τόνικ",
+     "image": "items/tonik.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ice tea",
+     "image": "items/ice-tea.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ενεργειακό ποτό",
+     "image": "items/energeiako-poto.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ισοτονικό ποτό",
+     "image": "items/isotoniko-poto.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χυμός πορτοκάλι",
+     "image": "items/chymos-portokali.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φρουτοποτό",
+     "image": "items/froytopoto.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "xiroi-karpoi-snak",
+   "name": "Ξηροί Καρποί & Σνακ",
+   "image": "cats/xiroi-karpoi-snak.webp",
+   "items": [
+    {
+     "name": "Αμύγδαλα",
+     "image": "items/amygdala.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καρύδια",
+     "image": "items/karydia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φιστίκια",
+     "image": "items/fistikia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κάσιους",
+     "image": "items/kasioys.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ηλιόσποροι",
+     "image": "items/iliosporoi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σταφίδες",
+     "image": "items/stafides.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αποξηραμένα φρούτα",
+     "image": "items/apoxiramena-froyta.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πατατάκια",
+     "image": "items/patatakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γαριδάκια",
+     "image": "items/garidakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ποπ κορν",
+     "image": "items/pop-korn.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κράκερ",
+     "image": "items/kraker.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "mpiskota-sokolates-zacharodi",
+   "name": "Μπισκότα, Σοκολάτες & Ζαχαρώδη",
+   "image": "cats/mpiskota-sokolates-zacharodi.webp",
+   "items": [
+    {
+     "name": "Μπισκότα",
+     "image": "items/mpiskota.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πτι μπερ",
+     "image": "items/pti-mper.webp",
+     "emoji": null
+    },
+    {
+     "name": "Cookies",
+     "image": "items/cookies.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπισκότα γεμιστά",
+     "image": "items/mpiskota-gemista.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σοκολάτα γάλακτος",
+     "image": "items/sokolata-galaktos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σοκολάτα υγείας",
+     "image": "items/sokolata-ygeias.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γκοφρέτα",
+     "image": "items/gkofreta.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σοκολατάκια",
+     "image": "items/sokolatakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παστέλι",
+     "image": "items/pasteli.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λουκούμια",
+     "image": "items/loykoymia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τσίχλες",
+     "image": "items/tsichles.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καραμέλες",
+     "image": "items/karameles.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ζελεδάκια",
+     "image": "items/zeledakia.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "eidi-proinoy-rofimata",
+   "name": "Είδη πρωινού & Ροφήματα",
+   "image": "cats/eidi-proinoy-rofimata.webp",
+   "items": [
+    {
+     "name": "Γάλα μακράς διαρκείας",
+     "image": "items/gala-makras-diarkeias.webp",
+     "emoji": null
+    },
+    {
+     "name": "Γάλα εβαπορέ",
+     "image": "items/gala-evapore.webp",
+     "emoji": null
+    },
+    {
+     "name": "Δημητριακά",
+     "image": "items/dimitriaka.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κορν φλέικς",
+     "image": "items/korn-fleiks.webp",
+     "emoji": null
+    },
+    {
+     "name": "Βρώμη",
+     "image": "items/vromi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μούσλι",
+     "image": "items/moysli.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπάρες δημητριακών",
+     "image": "items/mpares-dimitriakon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρυζογκοφρέτες",
+     "image": "items/ryzogkofretes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ελληνικός καφές",
+     "image": "items/ellinikos-kafes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φίλτρου καφές",
+     "image": "items/filtroy-kafes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Στιγμιαίος καφές",
+     "image": "items/stigmiaios-kafes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κάψουλες καφέ",
+     "image": "items/kapsoyles-kafe.webp",
+     "emoji": null
+    },
+    {
+     "name": "Espresso",
+     "image": "items/espresso.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τσάι",
+     "image": "items/tsai.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χαμομήλι",
+     "image": "items/chamomili.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κακάο",
+     "image": "items/kakao.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ζάχαρη",
+     "image": "items/zachari.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ζάχαρη καστανή",
+     "image": "items/zachari-kastani.webp",
+     "emoji": null
+    },
+    {
+     "name": "Στέβια",
+     "image": "items/stevia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μέλι",
+     "image": "items/meli.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μαρμελάδα",
+     "image": "items/marmelada.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σιρόπι",
+     "image": "items/siropi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πραλίνα",
+     "image": "items/pralina.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ταχίνι",
+     "image": "items/tachini.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φιστικοβούτυρο",
+     "image": "items/fistikovoytyro.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πρωτεΐνη σε σκόνη",
+     "image": "items/proteini-se-skoni.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "vrefikes-paidikes-trofes",
+   "name": "Βρεφικές & Παιδικές τροφές",
+   "image": "cats/vrefikes-paidikes-trofes.webp",
+   "items": [
+    {
+     "name": "Βρεφικό γάλα",
+     "image": "items/vrefiko-gala.webp",
+     "emoji": null
+    },
+    {
+     "name": "Βρεφική κρέμα",
+     "image": "items/vrefiki-krema.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παιδικό φρουτόπουρο",
+     "image": "items/paidiko-froytopoyro.webp",
+     "emoji": null
+    },
+    {
+     "name": "Παιδικά σνακ",
+     "image": "items/paidika-snak.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "trofima-pantopoleioy",
+   "name": "Τρόφιμα Παντοπωλείου",
+   "image": "cats/trofima-pantopoleioy.webp",
+   "items": [
+    {
+     "name": "Αλεύρι για όλες τις χρήσεις",
+     "image": "items/aleyri-gia-oles-tis-chriseis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αλεύρι φαρίνα",
+     "image": "items/aleyri-farina.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σιμιγδάλι",
+     "image": "items/simigdali.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μακαρόνια",
+     "image": "items/makaronia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σπαγγέτι",
+     "image": "items/spaggeti.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πένες",
+     "image": "items/penes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κριθαράκι",
+     "image": "items/kritharaki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χυλοπίτες",
+     "image": "items/chylopites.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λαζάνια",
+     "image": "items/lazania.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρύζι Καρολίνα",
+     "image": "items/ryzi-karolina.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρύζι μπασμάτι",
+     "image": "items/ryzi-mpasmati.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρύζι γλασέ",
+     "image": "items/ryzi-glase.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φακές",
+     "image": "items/fakes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φασόλια",
+     "image": "items/fasolia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρεβίθια",
+     "image": "items/revithia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φάβα",
+     "image": "items/fava.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κινόα",
+     "image": "items/kinoa.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πλιγούρι",
+     "image": "items/pligoyri.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ελαιόλαδο",
+     "image": "items/elaiolado.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ηλιέλαιο",
+     "image": "items/ilielaio.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ξίδι",
+     "image": "items/xidi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αλάτι",
+     "image": "items/alati.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πιπέρι",
+     "image": "items/piperi.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ρίγανη",
+     "image": "items/rigani.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κανέλα",
+     "image": "items/kanela.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πάπρικα",
+     "image": "items/paprika.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κύβοι ζωμού",
+     "image": "items/kyvoi-zomoy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κέτσαπ",
+     "image": "items/ketsap.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μουστάρδα",
+     "image": "items/moystarda.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μαγιονέζα",
+     "image": "items/magioneza.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σάλτσα μπάρμπεκιου",
+     "image": "items/saltsa-mparmpekioy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σάλτσα σόγιας",
+     "image": null,
+     "emoji": "🥢"
+    },
+    {
+     "name": "Σάλτσα ζυμαρικών",
+     "image": "items/saltsa-zymarikon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Τόνος",
+     "image": "items/tonos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καλαμπόκι κονσέρβα",
+     "image": "items/kalampoki-konserva.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κομπόστα",
+     "image": "items/komposta.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ντομάτα τριμμένη",
+     "image": "items/ntomata-trimmeni.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πελτές",
+     "image": "items/peltes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ντοματάκια κονσέρβα",
+     "image": "items/ntomatakia-konserva.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πουρές",
+     "image": "items/poyres.webp",
+     "emoji": null
+    },
+    {
+     "name": "Noodles",
+     "image": "items/noodles.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σούπα σε φακελάκι",
+     "image": "items/soypa-se-fakelaki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπέικιν πάουντερ",
+     "image": "items/mpeikin-paoynter.webp",
+     "emoji": null
+    },
+    {
+     "name": "Βανίλια",
+     "image": "items/vanilia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κακάο ζαχαροπλαστικής",
+     "image": "items/kakao-zacharoplastikis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σοκολάτα κουβερτούρα",
+     "image": "items/sokolata-koyvertoyra.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ζελέ",
+     "image": "items/zele.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μείγμα για κέικ",
+     "image": null,
+     "emoji": "🎂"
+    }
+   ]
+  },
+  {
+   "slug": "trofes-eidi-gia-katoikidia",
+   "name": "Τροφές & Είδη για Κατοικίδια",
+   "image": "cats/trofes-eidi-gia-katoikidia.webp",
+   "items": [
+    {
+     "name": "Ξηρά τροφή σκύλου",
+     "image": "items/xira-trofi-skyloy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Υγρή τροφή σκύλου",
+     "image": "items/ygri-trofi-skyloy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σνακ σκύλου",
+     "image": "items/snak-skyloy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ξηρά τροφή γάτας",
+     "image": "items/xira-trofi-gatas.webp",
+     "emoji": null
+    },
+    {
+     "name": "Υγρή τροφή γάτας",
+     "image": "items/ygri-trofi-gatas.webp",
+     "emoji": null
+    },
+    {
+     "name": "Άμμος γάτας",
+     "image": "items/ammos-gatas.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "eidi-mias-chrisis-eidi-parti",
+   "name": "Είδη μιας χρήσης & Είδη Πάρτι",
+   "image": "cats/eidi-mias-chrisis-eidi-parti.webp",
+   "items": [
+    {
+     "name": "Αλουμινόχαρτο",
+     "image": "items/aloyminocharto.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μεμβράνη",
+     "image": "items/memvrani.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λαδόχαρτο",
+     "image": "items/ladocharto.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σακουλάκια τροφίμων",
+     "image": "items/sakoylakia-trofimon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σακούλες σκουπιδιών",
+     "image": "items/sakoyles-skoypidion.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σκεύη αλουμινίου",
+     "image": "items/skeyi-aloyminioy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καλαμάκια",
+     "image": "items/kalamakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Οδοντογλυφίδες",
+     "image": "items/odontoglyfides.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ποτήρια μιας χρήσης",
+     "image": "items/potiria-mias-chrisis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πιάτα μιας χρήσης",
+     "image": "items/piata-mias-chrisis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μαχαιροπίρουνα μιας χρήσης",
+     "image": "items/machairopiroyna-mias-chrisis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χαρτοπετσέτες",
+     "image": "items/chartopetsetes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κεριά γενεθλίων",
+     "image": null,
+     "emoji": "🕯️"
+    },
+    {
+     "name": "Μπαλόνια",
+     "image": "items/mpalonia.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "chartika-panes-servietes",
+   "name": "Χαρτικά, Πάνες & Σερβιέτες",
+   "image": "cats/chartika-panes-servietes.webp",
+   "items": [
+    {
+     "name": "Χαρτί υγείας",
+     "image": "items/charti-ygeias.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χαρτί κουζίνας",
+     "image": "items/charti-koyzinas.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χαρτομάντιλα",
+     "image": "items/chartomantila.webp",
+     "emoji": null
+    },
+    {
+     "name": "Υγρά μαντηλάκια",
+     "image": null,
+     "emoji": "🧻"
+    },
+    {
+     "name": "Σερβιέτες",
+     "image": "items/servietes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σερβιετάκια",
+     "image": "items/servietakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ταμπόν",
+     "image": "items/tampon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πάνες μωρού",
+     "image": "items/panes-moroy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μωρομάντιλα",
+     "image": "items/moromantila.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "kallyntika-eidi-prosopikis-ygieinis",
+   "name": "Καλλυντικά & Είδη Προσωπικής υγιεινής",
+   "image": "cats/kallyntika-eidi-prosopikis-ygieinis.webp",
+   "items": [
+    {
+     "name": "Σαμπουάν",
+     "image": "items/sampoyan.webp",
+     "emoji": null
+    },
+    {
+     "name": "Conditioner",
+     "image": "items/conditioner.webp",
+     "emoji": null
+    },
+    {
+     "name": "Βαφή μαλλιών",
+     "image": "items/vafi-mallion.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αφρόλουτρο",
+     "image": "items/afroloytro.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σαπούνι",
+     "image": "items/sapoyni.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρεμοσάπουνο",
+     "image": "items/kremosapoyno.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αποσμητικό",
+     "image": "items/aposmitiko.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ενυδατική κρέμα σώματος",
+     "image": "items/enydatiki-krema-somatos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ξυραφάκια",
+     "image": "items/xyrafakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αφρός ξυρίσματος",
+     "image": "items/afros-xyrismatos.webp",
+     "emoji": null
+    },
+    {
+     "name": "Οδοντόκρεμα",
+     "image": "items/odontokrema.webp",
+     "emoji": null
+    },
+    {
+     "name": "Οδοντόβουρτσα",
+     "image": "items/odontovoyrtsa.webp",
+     "emoji": null
+    },
+    {
+     "name": "Στοματικό διάλυμα",
+     "image": "items/stomatiko-dialyma.webp",
+     "emoji": null
+    },
+    {
+     "name": "Οδοντικό νήμα",
+     "image": "items/odontiko-nima.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ντεμακιγιάζ",
+     "image": "items/ntemakigiaz.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρέμα προσώπου",
+     "image": "items/krema-prosopoy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Βαμβάκι",
+     "image": "items/vamvaki.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπατονέτες",
+     "image": "items/mpatonetes.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αντηλιακό",
+     "image": "items/antiliako.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λευκοπλάστ",
+     "image": "items/leykoplast.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αντισηπτικό",
+     "image": "items/antisiptiko.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "aporrypantika-eidi-katharismoy",
+   "name": "Απορρυπαντικά & Είδη Καθαρισμού",
+   "image": "cats/aporrypantika-eidi-katharismoy.webp",
+   "items": [
+    {
+     "name": "Απορρυπαντικό ρούχων",
+     "image": "items/aporrypantiko-roychon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κάψουλες πλυντηρίου ρούχων",
+     "image": "items/kapsoyles-plyntirioy-roychon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μαλακτικό",
+     "image": "items/malaktiko.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λευκαντικό ρούχων",
+     "image": "items/leykantiko-roychon.webp",
+     "emoji": null
+    },
+    {
+     "name": "Απορρυπαντικό πιάτων",
+     "image": "items/aporrypantiko-piaton.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ταμπλέτες πλυντηρίου πιάτων",
+     "image": "items/tampletes-plyntirioy-piaton.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λαμπρυντικό",
+     "image": "items/lampryntiko.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χλωρίνη",
+     "image": "items/chlorini.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καθαριστικό γενικής χρήσης",
+     "image": "items/katharistiko-genikis-chrisis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καθαριστικό τζαμιών",
+     "image": "items/katharistiko-tzamion.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καθαριστικό μπάνιου",
+     "image": "items/katharistiko-mpanioy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Καθαριστικό κουζίνας",
+     "image": "items/katharistiko-koyzinas.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αλάτι πλυντηρίου",
+     "image": "items/alati-plyntirioy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αποφρακτικό",
+     "image": "items/apofraktiko.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σφουγγάρια",
+     "image": null,
+     "emoji": "🧽"
+    },
+    {
+     "name": "Σφουγγαρίστρα",
+     "image": "items/sfoyggaristra.webp",
+     "emoji": null
+    },
+    {
+     "name": "Πανάκια καθαρισμού",
+     "image": null,
+     "emoji": "🧼"
+    },
+    {
+     "name": "Γάντια",
+     "image": "items/gantia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σκούπα",
+     "image": "items/skoypa.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "eidi-oikiakis-chrisis",
+   "name": "Είδη Οικιακής χρήσης",
+   "image": "cats/eidi-oikiakis-chrisis.webp",
+   "items": [
+    {
+     "name": "Μανταλάκια",
+     "image": "items/mantalakia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κρεμάστρες",
+     "image": "items/kremastres.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σκόρδο ντουλάπας",
+     "image": "items/skordo-ntoylapas.webp",
+     "emoji": null
+    },
+    {
+     "name": "Βερνίκι παπουτσιών",
+     "image": "items/verniki-papoytsion.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αρωματικό χώρου",
+     "image": "items/aromatiko-choroy.webp",
+     "emoji": null
+    },
+    {
+     "name": "Υγροσυλλέκτης",
+     "image": "items/ygrosyllektis.webp",
+     "emoji": null
+    },
+    {
+     "name": "Εντομοκτόνο",
+     "image": "items/entomoktono.webp",
+     "emoji": null
+    },
+    {
+     "name": "Ταμπλέτες για κουνούπια",
+     "image": "items/tampletes-gia-koynoypia.webp",
+     "emoji": null
+    },
+    {
+     "name": "Κάρβουνα",
+     "image": "items/karvoyna.webp",
+     "emoji": null
+    },
+    {
+     "name": "Προσανάμματα",
+     "image": "items/prosanammata.webp",
+     "emoji": null
+    },
+    {
+     "name": "Αναπτήρας",
+     "image": "items/anaptiras.webp",
+     "emoji": null
+    },
+    {
+     "name": "Σπίρτα",
+     "image": "items/spirta.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φυτιλάκια καντηλιού",
+     "image": null,
+     "emoji": "🕯️"
+    },
+    {
+     "name": "Μπαταρίες",
+     "image": "items/mpataries.webp",
+     "emoji": null
+    },
+    {
+     "name": "Λάμπα",
+     "image": null,
+     "emoji": "💡"
+    },
+    {
+     "name": "Σελοτέιπ",
+     "image": null,
+     "emoji": "📦"
+    },
+    {
+     "name": "Τσάντα για ψώνια",
+     "image": "items/tsanta-gia-psonia.webp",
+     "emoji": null
+    }
+   ]
+  },
+  {
+   "slug": "chartopoleio",
+   "name": "Χαρτοπωλείο",
+   "image": "cats/chartopoleio.webp",
+   "items": [
+    {
+     "name": "Στυλό",
+     "image": "items/stylo.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μολύβια",
+     "image": null,
+     "emoji": "✏️"
+    },
+    {
+     "name": "Τετράδιο",
+     "image": "items/tetradio.webp",
+     "emoji": null
+    },
+    {
+     "name": "Μπλοκ",
+     "image": "items/mplok.webp",
+     "emoji": null
+    },
+    {
+     "name": "Χαρτί εκτυπωτή",
+     "image": "items/charti-ektypoti.webp",
+     "emoji": null
+    },
+    {
+     "name": "Φάκελοι",
+     "image": null,
+     "emoji": "✉️"
+    }
+   ]
+  }
+ ]
+}
